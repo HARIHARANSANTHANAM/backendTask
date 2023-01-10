@@ -1,0 +1,16 @@
+EMPLOYEE_ID,FIRST_NAME ,LAST_NAME   ,PHONE_NUMBER, HIRE_DATE,DESIGNATION,SALARY;
+        198,Donald     ,  OConnell  ,  6505079833,21-Jun-07, DEV,1200000;
+        199,Douglas    ,  Grant     ,  6505079844,13-Jan-08, QA,800000;
+        200,Jennifer   ,  Whalen    ,  5151234444,17-Sep-03, MANAGER,2200000;
+        201,Michael    ,  Hartstein ,  5151235555,17-Feb-04, QA,800000;
+        202,Pat        ,  Fay       ,  6031236666,17-Aug-05, QA,800000;
+        203,Susan      ,  Mavris    ,  5151237777,07-Jun-02, QA,800000;
+        204,Hermann    ,  Baer      ,  5151238888,07-Jun-02, QA,800000;
+        205,Shelley    ,  Higgins   ,  5151238080,07-Jun-02, DEV,1200000;
+        206,William    ,  Gietz     ,  5151238181,07-Jun-02, DEV,1200000;
+        100,Steven     ,  King      ,  5151234567,17-Jun-03, MANAGER,2200000;
+        101,Neena      ,  Kochhar   ,  5151234568,21-Sep-05, DEV,1200000;
+        102,Lex        ,  De Haan   ,  5151234569,13-Jan-01, DEV,1200000;
+        103,Alexander  ,  Hunold    ,  5904234567,03-Jan-06, MANAGER,2200000;
+        104,Bruce      ,  Ernst     ,  5904234568,21-May-07, DEV,1200000;
+        105,David      ,  Austin    ,  5904234569,25-Jun-05, QA,800000;
